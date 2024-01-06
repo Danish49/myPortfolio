@@ -186,8 +186,8 @@ main .home {
   justify-content: center;
   align-items: center;
   border-radius: 50%;
-  width: 3.5rem;
-  height: 3.5rem;
+  width: 4rem;
+  height: 4rem;
   border: 1px solid var(--accent-color);
   font-size: 1.5rem;
   color: var(--accent-color);
